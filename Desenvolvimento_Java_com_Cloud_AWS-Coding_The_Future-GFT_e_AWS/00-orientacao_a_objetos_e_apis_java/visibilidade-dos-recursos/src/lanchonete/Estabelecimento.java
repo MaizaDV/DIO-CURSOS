@@ -22,9 +22,5 @@ public class Estabelecimento {
 		cliente.fazerPedido();
 		cliente.pagarConta();
 
-		//esta ação é muito sigilosa, qua tal ser privada ?
-		cliente.consultarSaldoAplicativo();
-
-		
 	}
 }
