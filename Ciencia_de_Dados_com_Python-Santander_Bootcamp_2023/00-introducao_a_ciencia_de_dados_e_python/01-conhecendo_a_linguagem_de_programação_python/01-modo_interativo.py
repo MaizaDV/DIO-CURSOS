@@ -1,5 +1,6 @@
 import math
 # modo_interativo
+# fonte https://wiki.python.org.br/ModoInterativo
 
 # O interpretador Python pode executar comandos diretamente
 # no modo interativo, sem a necessidade de criar um arquivo de código-fonte.
