@@ -1,4 +1,4 @@
-package exercicios.list;
+package exercicios.list.operacoesbasicas;
 
 /**
  * Classe item.

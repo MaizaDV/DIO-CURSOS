@@ -1,4 +1,6 @@
-package exercicios.list;
+package exercicios.list.operacoesbasicas;
+
+import exercicios.list.operacoesbasicas.CarrinhoDeCompras;
 
 /**
  * Classe para teste.

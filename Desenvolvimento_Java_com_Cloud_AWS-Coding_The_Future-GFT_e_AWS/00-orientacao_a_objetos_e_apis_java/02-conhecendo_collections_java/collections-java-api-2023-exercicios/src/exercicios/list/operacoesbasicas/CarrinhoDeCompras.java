@@ -1,5 +1,6 @@
-package exercicios.list;
+package exercicios.list.operacoesbasicas;
 
+import exercicios.list.operacoesbasicas.Item;
 import java.util.ArrayList;
 import java.util.List;
 
