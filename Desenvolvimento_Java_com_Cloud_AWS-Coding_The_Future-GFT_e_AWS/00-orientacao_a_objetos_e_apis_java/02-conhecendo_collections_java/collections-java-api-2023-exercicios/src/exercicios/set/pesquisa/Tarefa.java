@@ -1,4 +1,4 @@
-package exercicios.set.ordenacao;
+package exercicios.set.pesquisa;
 
 public class Tarefa {
 
