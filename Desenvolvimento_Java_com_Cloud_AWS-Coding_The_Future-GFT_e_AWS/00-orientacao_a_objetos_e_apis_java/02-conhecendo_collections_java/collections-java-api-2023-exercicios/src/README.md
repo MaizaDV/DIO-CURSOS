@@ -1,5 +1,7 @@
 # Fixando os Conhecimentos
 
+A resposta de cada exercício, está no pacote de cada tipo de collection.
+
 ## List Interface
 
 Referência: [List Interface](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/list#list-interface)
@@ -25,3 +27,16 @@ Exercícios:
     - [Lista de Tarefas](https://github.com/cami-la/collections-java-api-2023/blob/master/src/main/java/set/README.md#2-lista-de-tarefas)
 3. Ordenação em Set
     - [Lista de Alunos](https://github.com/cami-la/collections-java-api-2023/blob/master/src/main/java/set/README.md#2-lista-de-alunos)
+
+## MAP
+
+Referência: [MAP](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/map#map)
+
+Exercícios:
+
+1. Operações Básicas com Map
+    - [Dicionário](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/map#2--dicion%C3%A1rio)
+2. Pesquisa em Map
+    - [Contagem de Palavras](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/map#2--dicion%C3%A1rio)
+3. Ordenação em Map
+    - [Livraria Online](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/map#2-livraria-online)
